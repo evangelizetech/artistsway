@@ -1,8 +1,9 @@
 ---
 layout: page
-title: My Books
+title: Books
 permalink: /books/
 ---
+
 ### Books
 
 Wyoming Shine is an historical novel based on real events. Click [here](https://evangelizetech.github.io/artistsway/WyomingShine/toc.md) to read it.
